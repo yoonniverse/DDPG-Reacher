@@ -1,4 +1,4 @@
-I reached score of ~30 at Reacher task within 120 episodes thus solved the problem, using DDPG(Deep Deterministic Policy Gradient). 
+I reached score of ~30 at Reacher task within 106 episodes thus solved the problem, using DDPG(Deep Deterministic Policy Gradient). 
 
 ## Learning Algorithm
 
