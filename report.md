@@ -28,7 +28,7 @@ This plot shows average scores in past 100 episodes per episode.
 ![score plot](score_plot.png)
 
 ## Test Performance
-3 episodes avg: 
+3 episodes avg: 38.3
 
 ## Ideas for Future Work
 * Tune hyperparameters
