@@ -40,7 +40,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 ## Instructions
 
-* python train.py: trains agent and saves it to 'qnetwork.ckpt'
-* python test.py: tests agent for n_episodes times, each with different environment seed.
+* `python train.py`: trains agent and saves it to 'qnetwork.ckpt'
+* `python test.py`: tests agent for n_episodes times, each with different environment seed.
 
 *make sure your downloaded & unzipped unity environment matches --env_path argument in both commands*
